@@ -4,7 +4,7 @@
   
 ### I'm *Dhanush* and I'm into Robotics
 
-![GIF](https://media3.giphy.com/media/l3xgIANubxGWpbhjWs/giphy.gif?cid=ecf05e47iu26fay7ml3pqg3ronnbqpm9b5xnzc3m1v09k5h6&rid=giphy.gif)
+![GIF](https://raw.githubusercontent.com/dhanuzch/dhanuzch/master/Dhanush%20github%20gif.gif)
 
 </div>
 
