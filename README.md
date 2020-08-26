@@ -11,9 +11,11 @@
 ### Whadddup!
 
 - 🔭 I’m currently working on **Social Robots**
-- 🌱 I’m currently learning ROS
+- 🌱 And learning ROS
 - 💻 I am into **Robotics, Robot Perception, IoT, Embedded Systems** and **PCB Designing**. And also expanding my * coughs * geekstuff everyday!
 - 💬 I'm open to collaborate on **Robotics** and **IoT**.
 - 📫 How to reach me: [GitHub](https://www.github.com/dhanuzch) or [LinkedIn](https://www.linkedin.com/in/dhanushbakthavatchalam-12b299a7/).
 - 🎯 Member of core team at TEDxBITSathy
+
+####wubba lubba dub dub
 
