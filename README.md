@@ -1,7 +1,7 @@
 # Hi there 👋
 
 
-### I am *Aaishika Sarmistha Bhattacharya* from *SRM Institute of Science and Technology, Kattankulathur*. Here's a list of things about me:
+### I'm *Dhanush* and I'm into Robotics
 
 
 
