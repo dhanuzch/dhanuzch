@@ -7,7 +7,7 @@
 
 
 
-<!--
+
 ![GIF](https://media3.giphy.com/media/l3xgIANubxGWpbhjWs/giphy.gif?cid=ecf05e47iu26fay7ml3pqg3ronnbqpm9b5xnzc3m1v09k5h6&rid=giphy.gif)
 
 
@@ -19,4 +19,4 @@
 - 💬 I'm open to collaborate on Robotics and IoT. Please feel free to reach out to me over 
 - 📫 How to reach me: [GitHub](https://www.github.com/dhanuzch) or [LinkedIn](https://www.linkedin.com/in/dhanushbakthavatchalam-12b299a7/).
 - 🎯 Member of core team at TEDxBITSathy
--->
+
