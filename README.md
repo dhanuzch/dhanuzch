@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![GIF](https://raw.github.com/dhanuzch/dhanuzch/blob/master/Dhanush%20githubv2.gif)
+![GIF](https://raw.githubusercontent.com/dhanuzch/dhanuzch/master/Dhanush%20githubv2.gif)
 
 </div>
 
