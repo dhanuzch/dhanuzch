@@ -6,7 +6,7 @@
 
 </div>
 
-### Whadddup!
+### Whadddup!!
 
 - 🔭 I’m currently learning **ROS** and working on **Social Robots**
 - 💬 I'm open to collaborate on **Robotics** and **IoT**.
