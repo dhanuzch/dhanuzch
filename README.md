@@ -6,11 +6,8 @@
 
 </div>
 
-### Whadddup!!
+### Reach me @ [LinkedIn](https://www.linkedin.com/in/dhanushbakthavatchalam-12b299a7/), [Instagram](https://www.instagram.com/dhanuzch)
 
-- 🔭 I’m currently learning working on **Social Robots**
-- 💬 I'm open to collaborate on **Robotics** and **IoT**.
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/dhanushbakthavatchalam-12b299a7/), [Instagram](https://www.instagram.com/dhanuzch)
+#### ->I'm open to collaborate on **Robotics** and **IoT** projects. <-
 
-#### wubba lubba dub dub
 
